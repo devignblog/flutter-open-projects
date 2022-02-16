@@ -36,8 +36,5 @@ This section has production quality apps with complex UI, best architecture, cle
 
 - [leo-ML(tflite)-ColorDetector](https://github.com/uzairleo/leo-ML-tflite-flutter)
 
-## Contributors List:
-This section includes the list of all main contributors with special thanks for contributing to the open source community.
-- [Haroon Khan](https://github.com/haroonkhan9426) the creator and main contributor.
-- [Uzair Leo](https://github.com/uzairleo) the very first contributor.
-- [Umair Jibran](https://github.com/UmairJibran) the very second contributor.
+## Follow Me Here
+- [Tealfeed](https://tealfeed.com/devign) the creator and main contributor.
