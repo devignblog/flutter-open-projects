@@ -37,4 +37,4 @@ This section has production quality apps with complex UI, best architecture, cle
 - [leo-ML(tflite)-ColorDetector](https://github.com/uzairleo/leo-ML-tflite-flutter)
 
 ## Follow Me Here
-- [Tealfeed](https://tealfeed.com/devign) the creator and main contributor.
+- [Tealfeed](https://tealfeed.com/devign)
